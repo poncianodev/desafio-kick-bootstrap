@@ -4,7 +4,7 @@
 Este projeto foi criado para o desafio 30 da Jornada Kick, onde foi pedido para ser desenvolvido um site utilizando Bootstrap.
 
 
-## Referência
+## Referências
 
  - [Navbar](https://getbootstrap.com/docs/5.3/examples/headers/)
  - [Heroe](https://getbootstrap.com/docs/5.3/examples/heroes/)
@@ -14,7 +14,7 @@ Este projeto foi criado para o desafio 30 da Jornada Kick, onde foi pedido para 
 
 
 
-## Stack utilizada
+## Tecnologias utilizadas
 
 **HTML, CSS (Com a biblioteca Bootstrap)**
 
